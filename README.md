@@ -10,6 +10,9 @@
 npm i -S @jswork/ushell-module-starship
 ```
 
+## resources
+- https://starship.rs/zh-CN/
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/ushell-module-starship/blob/master/LICENSE.txt).
 
