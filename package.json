@@ -9,9 +9,11 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-starship"
+    "module",
+    "starship",
+    "bash",
+    "zsh",
+    "shell"
   ],
   "license": "MIT",
   "bugs": {
