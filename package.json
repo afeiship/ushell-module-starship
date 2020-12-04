@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-starship",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ushell module for starship.",
   "main": "index.sh",
   "repository": {
