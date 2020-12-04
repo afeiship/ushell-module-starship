@@ -2,10 +2,10 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
+# dotfiles
+export STARSHIP_CONFIG=~/.dotfiles/.starship/starship.toml
 eval "$(starship init bash)"
 
-# customize dir not work:
-# export STARSHIP_CONFIG=~/.starship
 
 
 unset ROOT_PATH;
